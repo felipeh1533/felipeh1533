@@ -1,16 +1,13 @@
-### Hi there 👋
+# UM POUCO SOBRE EU #
 
-<!--
-**felipeh1533/felipeh1533** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+* _NEW USUALI_ ! ! !
 
-Here are some ideas to get you started:
+* 🇧🇷+55 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+* ESTUDANTE PACIFICO 
+
+* FUTURO JOGADOR
+
+✨ _APRENDENDO A PROGRAMAR_ ✨
+
+_ | <a href="https://instagram.com/seu-usuário-instagram-aqui" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a> | _
